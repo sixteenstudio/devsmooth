@@ -1,0 +1,22 @@
+{ 
+	"smoothie": { 
+		"name":"My Awesome smoothie",
+		"ingredients": {
+			"1": {
+				"name": "Asda strawberries",
+				"amount": "2lbs"
+			},
+			"2": {
+				"name": "Cravendale Milk",
+				"amount": "ltr"
+			}
+		},
+		"preperation": { 
+
+			"step 1": "Peel the strawberries",
+			"step 2": "Mush them up",
+			"step 3": "Put in milk and stuff"
+
+		}
+	}
+}
