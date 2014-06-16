@@ -4,11 +4,21 @@
 		"ingredients": {
 			"1": {
 				"name": "Asda strawberries",
-				"amount": "2lbs"
+				"unit": {
+					"name": "pounds",
+					"abbreviation": "lbs",
+                                        "position": "end"
+				},
+				"amount": 2
 			},
 			"2": {
 				"name": "Cravendale Milk",
-				"amount": "ltr"
+				"unit": {
+					"name": "litre",
+					"abbreviation": "ltr",
+                                        "position": "end"
+				},
+				"amount": 1
 			}
 		},
 		"preperation": { 
